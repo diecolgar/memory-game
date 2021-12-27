@@ -5,12 +5,12 @@
 button {
 	background: none;
 	border: 2px solid #fff;
-	padding: 6px 12px;
+	padding: 4px 8px;
 	border-radius: 4px;
 	color: #fff;
 	font-weight: bold;
 	cursor: pointer;
-	font-size: 1em;
+	font-size: 0.7em;
 }
 button:hover {
 	background: #c23866;
@@ -20,5 +20,5 @@ button:hover {
 	margin-top: 40px;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
-	grid-gap: 4vw;
+	grid-gap: 10px;
 }
